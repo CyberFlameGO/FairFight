@@ -1,0 +1,8 @@
+name: FairFight
+author: joeleoli
+version: 1.0
+main: me.joeleoli.fairfight.FairFight
+commands:
+  fairfight:
+    usage: <command>
+    aliases: [ff]
